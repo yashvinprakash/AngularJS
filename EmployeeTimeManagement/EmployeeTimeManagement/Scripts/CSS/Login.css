@@ -1,0 +1,44 @@
+﻿body {
+    height:100%;
+    width:100%;
+    background-color:black;
+}
+
+.flex-loginDiv{
+    display:-webkit-flex;
+    margin-top:13%;
+    margin-left:35%;
+    width:600px;
+    height:300px;
+    background-color:white;
+    border-radius:5px 5px 5px 5px;
+}
+
+.flex-item {
+    background-color: lightgray;  
+}
+
+.UserControls {
+   
+   margin-left:20%;
+   margin-top:9%;
+   width:500px;
+   height:200px;
+   background-color: white;
+}
+
+.Controls{
+    width:350px;
+    height:50px;
+}
+
+.signUpDiv{
+    border-radius:10px;
+    margin:5px;
+    display:flex;
+    width:80px;
+    text-align:center;
+    align-items:center;
+    justify-content: center;
+}
+

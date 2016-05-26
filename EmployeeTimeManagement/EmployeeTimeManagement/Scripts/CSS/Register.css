@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.mainDiv{
+    display:block;
+    margin-top:11%;
+    margin-left:35%;
+    width:600px;
+    height:520px;
+    background-color:white;
+    border-radius:5px 5px 5px 5px;
+}
+
+.userControl{
+    margin-left:21%;
+   margin-top:3%;
+   width:350px;
+   height:50px;
+}
